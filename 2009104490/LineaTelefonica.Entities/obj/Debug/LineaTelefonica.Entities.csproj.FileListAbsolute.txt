@@ -1,0 +1,14 @@
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\LineaTelefonica\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2015137104\2015137104\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2015137104\2015137104\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2015137104\2015137104\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2015137104\2015137104\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2015137104\2015137104\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb

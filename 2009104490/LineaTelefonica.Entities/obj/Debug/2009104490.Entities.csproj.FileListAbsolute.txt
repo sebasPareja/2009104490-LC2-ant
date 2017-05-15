@@ -1,0 +1,4 @@
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\SebastianPareja\2015137104\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\SebastianPareja\2015137104\LineaTelefonica.Entities\bin\Debug\LineaTelefonica.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\SebastianPareja\2015137104\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\SebastianPareja\2015137104\LineaTelefonica.Entities\obj\Debug\LineaTelefonica.Entities.pdb
